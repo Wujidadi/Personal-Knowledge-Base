@@ -9,6 +9,7 @@
 * [Chromium Extensions](/chromium-extensions)
 * [Docker](/docker)
 * [Git](/git)
+* [GitHub](/github)
 * [GitLab](/gitlab)
 * [HLS](/hls)
 * [HTTP](/http)
