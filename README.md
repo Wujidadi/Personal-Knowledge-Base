@@ -20,3 +20,4 @@
 * [MQL](/MQL)
 * [MySQL](/MySQL)
 * [PHP](/PHP)
+* [PostgreSQL](/PostgreSQL)
