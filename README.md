@@ -1,4 +1,4 @@
-# Personal Knowledge Wiki
+# Personal Knowledge Base
 
 個人知識庫。
 
