@@ -14,3 +14,4 @@
 * [HTTP](/HTTP)
 * [Java](/Java)
 * [JavaScript](/JavaScript)
+* [Laravel](/Laravel)
