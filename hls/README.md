@@ -2,8 +2,7 @@
 
 > HTTP Live Streaming
 
-## 下載 HLS 串流影片
+## 目錄
 
-關鍵字：`貓抓`、`N_m3u8DL-RE`、`FFmpeg`
-
-參考資料：[如何下載線上看影片？ - 叩頂窩客 | m3u8 | ts](https://koding.work/how-to-download-online-video/)
+* [串接桃園智慧旅遊雲即時影像串流的範例專案](https://github.com/Wujidadi/HLS-Taoyuan-Travel)
+* [下載 HLS 串流影片](/hls/download-stream-video)
