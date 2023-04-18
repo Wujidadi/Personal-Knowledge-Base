@@ -13,3 +13,4 @@
 * [HLS](/HLS)
 * [HTTP](/HTTP)
 * [Java](/Java)
+* [JavaScript](/JavaScript)
