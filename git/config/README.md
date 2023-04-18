@@ -1,6 +1,6 @@
 # `.git/config` 參考配置
 
-```conf
+```gitconfig
 [core]
     repositoryformatversion = 0
     filemode = true
