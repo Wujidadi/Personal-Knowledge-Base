@@ -25,5 +25,6 @@
 * [Raspberry Pi](/raspberry-pi)
 * [SSH](/ssh)
 * [Tampermonkey](/tampermonkey)
+* [Telegram](/telegram)
 * [Visual Studio Code](/visual-studio-code)
 * [Vue](/vue)
