@@ -1,8 +1,5 @@
 # Java
 
-## 查詢 `JAVA_HOME`
+## 目錄
 
-```
-java -XshowSettings:properties -version
-```
-裡面的 `java.home` 就是
+* [查詢 `JAVA_HOME`](/java/java-home)
