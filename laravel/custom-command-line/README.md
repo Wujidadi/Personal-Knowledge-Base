@@ -101,7 +101,7 @@ trait StyledCommand
      *
      * @var ?string
      */
-    protected $outputStyle = null;
+    protected string $outputStyle = null;
 
     /**
      * Set the output style of the console command.
