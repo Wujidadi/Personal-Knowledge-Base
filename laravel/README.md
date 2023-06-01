@@ -6,3 +6,4 @@
 * [自訂命令行工具](/laravel/custom-command-line)
 * [Laravel Sail](/laravel/laravel-sail)
 * [PHPUnit](/laravel/phpunit)
+* [Laravel Echo Server](/laravel/laravel-echo-server)
