@@ -4,6 +4,7 @@
 
 ## 目錄
 
+* [AI](/ai)
 * [Apifox](/apifox)
 * [Blockchain](/blockchain)
 * [Chromium Extensions](/chromium-extensions)
