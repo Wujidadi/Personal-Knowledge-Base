@@ -25,6 +25,7 @@
 * [PHP](/php)
 * [PostgreSQL](/postgresql)
 * [Raspberry Pi](/raspberry-pi)
+* [Shell](/shell)
 * [SSH](/ssh)
 * [Tampermonkey](/tampermonkey)
 * [Telegram](/telegram)
